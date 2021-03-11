@@ -1,21 +1,20 @@
-# react-native-mb-ui
+# react-native-ds-ui
 
-mb-ui,react-native-ui,具有反馈组件和基础组件的ui库，
+ds-ui,react-native-ui,具有反馈组件和基础组件的ui库，
 
 ## Installation
 
 ```sh
-npm install react-native-mb-ui
+npm install react-native-ds-ui
 ```
 
 ## Usage
 
 ```js
-import MbUi from "react-native-mb-ui";
+import { Card } from "react-native-ds-ui";
 
 // ...
-
-const result = await MbUi.multiply(3, 7);
+<Card></Card>
 ```
 
 ## Contributing
